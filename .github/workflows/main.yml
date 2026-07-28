@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x core
-    - run: sudo ./core 91.108.17.41 32003 110
+    - run: sudo ./core 91.108.17.53 32002 80
